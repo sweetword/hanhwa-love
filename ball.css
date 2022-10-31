@@ -1,0 +1,53 @@
+* {
+  font-family: "Poor Story", cursive;
+}
+
+nav {
+  background-color: rgb(249, 213, 147);
+  font-size: 160%;
+}
+
+section,
+article1 {
+  margin: 20px;
+}
+
+section {
+  background-color: rgba(255, 166, 0, 0.84);
+  border: 2px solid black;
+  border-radius: 2em;
+  text-align: center;
+}
+
+footer {
+  background-color: aliceblue;
+}
+.subtitle1 {
+  font-size: 30px;
+}
+.ask_1 {
+  font-weight: 500;
+  font-size: 30px;
+}
+
+.my_img {
+  display: none;
+}
+.my_box:hover .my_img {
+  display: block;
+}
+
+.subtitle {
+  text-align: center;
+  background-color: rgba(255, 166, 0, 0.84);
+  border: 2px solid black;
+  border-radius: 30px 30px 0px 0px;
+  font-weight: 200;
+  font-size: 30px;
+  margin: 5px 10px 0px 10px;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
